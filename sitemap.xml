@@ -2,7 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xuyf0115.gitee.io/movies/index.html</loc>
+    
+    <lastmod>2021-03-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xuyf0115.gitee.io/music/index.html</loc>
+    
+    <lastmod>2021-03-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xuyf0115.gitee.io/amiti/index.html</loc>
+    
+    <lastmod>2021-03-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xuyf0115.gitee.io/saysay/index.html</loc>
+    
+    <lastmod>2021-03-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xuyf0115.gitee.io/2021/03/04/hjc/</loc>
+    
+    <lastmod>2021-03-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xuyf0115.gitee.io/archives/index.html</loc>
+    
+    <lastmod>2021-03-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xuyf0115.gitee.io/about/index.html</loc>
+    
+    <lastmod>2021-03-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xuyf0115.gitee.io/tags/index.html</loc>
     
     <lastmod>2021-03-04</lastmod>
     
@@ -18,7 +67,7 @@
 
   <url>
     <loc>https://xuyf0115.gitee.io/</loc>
-    <lastmod>2021-03-04</lastmod>
+    <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
